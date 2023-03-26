@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm Aashish Dhakad</h1>
+<h1 align="center">Hey👋,nice to see you. </h1>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<h3 align="center">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3>
+<h3 align="center">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3> -->
+
+<br>
 
 
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
+<img align="left" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+
+<!--  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/) -->
+ 
+ <h3>As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3>
+ 
+ <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishdakad&label=Profile%20views&color=0e75b6&style=flat" alt="aashishdakad" /> </p>
+ 
+ </br>
+
+
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishdakad" alt="aashishdakad" /></a> </p>
  -->
+ 
+<br>
+
+</br>
+ 
+ 
 - 🔭 I’m currently working on **Private cloud**
 
 - 🌱 I’m currently learning **Networking,**
