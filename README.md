@@ -3,15 +3,15 @@
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-<h3 align="center">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3> -->
+<h3 align="right">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3> -->
 
 <br>
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="left" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+
 
 <!--  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/) -->
@@ -33,7 +33,8 @@
 
 </br>
  
- 
+ <br>
+ <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 - 🔭 I’m currently working on **Private cloud**
 
 - 🌱 I’m currently learning **Networking,**
@@ -45,6 +46,34 @@
 - 📫 How to reach me **dhakadaashish07@gmail.com**
 
 - ⚡ Fun fact **Somebody I used to know**
+
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @  @+
+@@       o o                                        @@                                                                    @@
+@@       | |                                        @@                                                                    @@
+@@      _L_L_                                       @@                                                                    @@
+@@   ❮\/__-__\/❯ I am Programming hookie            @@                                                                    @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure    @@                                                                    @@
+@@   ❮/ \`-'/ \❯                                    @@                                                                    @@
+@@     _/`U'\_                                      @@            ____________________________________________            @@
+@@    ( .   . )     .----------------------------.  @@            / To improve the readability of your code,  \           @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |  @@            \ you can import __future__ as tomorrow.    /           @@
+@@   \ |  ,  | /    '----------------------------'  @@            ---------------------------------------------           @@
+@@    \|=====|/                                     @@                   \   ^__^                                         @@
+@@     |_.^._|                                      @@                    \  (oo)\________                                @@
+@@     | |"| |                                      @@                       (__)\        )\/\                            @@
+@@     ( ) ( )   Testing leads to failure           @@                           ||-----w |                               @@
+@@     |_| |_|   and failure leads to understanding @@                           ||      ||                               @@
+@@ _.-' _j L_ '-._                                  @@                                                                    @@
+@@(___.'     '.___)                                 @@                                                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @  @+
+```
+  
+
+</br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
