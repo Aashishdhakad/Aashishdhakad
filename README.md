@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Dhakad</h1>
-<h3 align="center">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses.My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, allows me to design and implement cloud solutions that align with the organization's goals and objectives.My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, allows me to design and implement cloud solutions that align with the organization's goals and objectives.</h3>
+<h3 align="center">As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishdakad&label=Profile%20views&color=0e75b6&style=flat" alt="aashishdakad" /> </p>
 
