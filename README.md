@@ -45,7 +45,7 @@
  <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-- 🔭 I’m currently working on **Private cloud**
+- 🔭 I’m currently working on **making private cloud**
 
 - 🌱 I’m currently learning **Networking,**
 
