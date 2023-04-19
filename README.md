@@ -24,7 +24,7 @@
 <!--  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/) -->
  
- <h3>As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud servies that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3>
+ <h3>As a cloud engineer,I am passionate about exploring new technologies that allows me to leverage the latest tools to deliver seamless and secure cloud services that meet the needs of modern businesses. My ability to collaborate effectively with cross-functional teams, including developers, operations, and business stakeholders, that align with the organization's goals and objectives.</h3>
  
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishdakad&label=Profile%20views&color=0e75b6&style=flat" alt="aashishdakad" /> </p>
