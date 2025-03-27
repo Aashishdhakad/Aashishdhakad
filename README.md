@@ -1,7 +1,5 @@
 
-<h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  Hey👋, nice to see you.
+<h1 align="center"> Hey👋, nice to see you.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> </h1>
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -102,7 +100,6 @@ s
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishdakad&" alt="aashishdakad" /></p>
    
  -->
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
+## &nbsp; &nbsp; &nbsp;🔥 My Motto <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Aashishdhakad);....+s.explore();....+s.learn();....+s.contribute()"/>
